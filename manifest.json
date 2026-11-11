@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Atmosphere",
+    "description": "Add ambient sounds to Spotify with customizable volume controls and saved settings.",
+    "preview": "preview.png",
+    "main": "ambience.js",
+    "readme": "README.md",
+    "tags": ["ambience", "nature", "audio"]
+  }
+]
